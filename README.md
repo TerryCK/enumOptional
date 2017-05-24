@@ -1,7 +1,7 @@
 # Optional implement by enum
 
 
-### Xcode 8.3.2 (8E2002), Swift 3
+### Xcode ver 8.3.2, Swift 3
 
 It's a playground to learn follow concept 
 
@@ -13,9 +13,8 @@ It's a playground to learn follow concept
 
 4.customized operator
 
-reference: 
+###### reference: 
 > [Part I](http://wp.me/p2XlRh-gE) 
-
 
 > [Part II](http://wp.me/p2XlRh-ig)
 
