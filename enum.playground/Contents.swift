@@ -34,7 +34,7 @@ enum Optional<Type> : ExpressibleByNilLiteral, Equatable {
             fatalError("unexpectedly found nil while unwrapping an optional value")
         }
     }
-
+    
     
     func isNil() -> Bool {
         if self == nil {
@@ -70,7 +70,7 @@ postfix func >! <T>(value: Optional<T>) -> Any {
 }
 
 
-// demostration 
+// demostration
 
 let myOptionalString = Optional<String>.some("Hello")
 var myOptionalnone = Optional<String>.none
